@@ -1,2 +1,2 @@
 # Koresz
-valami
+beleirok 
